@@ -1,0 +1,17 @@
+{
+  "name": "form_submit_using_ajax",
+  "version": "1.0.0",
+  "author": "Suraj Roy",
+  "keywords": "N/A",
+  "description": "N/A",
+  "dependencies": {
+    "express": "4.13.3",
+    "file-extension": "^4.0.5",
+    "multer": "1.1.0"
+  },
+  "devDependencies": {
+    "should": "~7.1.0",
+    "mocha": "~2.3.3",
+    "supertest": "~1.1.0"
+  }
+}
